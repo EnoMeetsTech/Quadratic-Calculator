@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658078006 source:c:\users\user\desktop\c++\quadractic calculator\main.cpp
+	<iostream>
+	<cmath>
+
